@@ -10,3 +10,6 @@ To create my game story, I took inspiration from the Eagle's song **"Hotel Calif
 The game file will open in Twine and you can view and edit each of the steps and branching in the game. 
 
 I kept the game simple, using basic markdown for Twine. You can fancy it up but be sure to provide credit to the original game. 
+
+#Play the Game
+Want to test drive the game and see how it flows? [click here to play](https://htmlpreview.github.io/?https://github.com/myramade/Twinery/blob/main/Trapped%20in%20Hotel%20California2021.html)
