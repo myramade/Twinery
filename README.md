@@ -13,3 +13,4 @@ I kept the game simple, using basic markdown for Twine. You can fancy it up but 
 
 #Play the Game
 Want to test drive the game and see how it flows? [click here to play](https://htmlpreview.github.io/?https://github.com/myramade/Twinery/blob/main/Trapped%20in%20Hotel%20California2021.html)
+
